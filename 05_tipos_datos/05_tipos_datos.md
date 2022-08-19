@@ -422,11 +422,11 @@ Al igual que culaquier otro tipo de dato, podemos usar la función type() para c
 <class 'str'>
 ```
 
-Acá hay bastante por revisar con los strings. El conocerlos te puede ser de gran utilidad. Esto es especiallmente úitl a la hora de trabajar con textos, webscraping y modelos de inteligencia artificial basada en el análisis de texto. Pero me estoy adelantando demasiado jajajaj Ya los reremos con clama más adelante.
+Acá hay bastante por revisar con los strings. El conocerlos te puede ser de gran utilidad. Esto es especialmente úitl a la hora de trabajar con textos, webscraping y modelos de inteligencia artificial basada en el análisis de texto. Pero me estoy adelantando demasiado jajajaj Ya los veremos con calma más adelante.
 
 
-Hasta acá vamos a dejar este capítulo que se ha hecho bastante largo la verdad y es bastante información. Revísao con calma, practica y mueve los deditos en tu computador para ir ejercitando los ejemplos. 
+Hasta acá vamos a dejar este capítulo que se ha hecho bastante largo la verdad y es bastante información. Revísalo con calma, practica y mueve los deditos en tu computador para ir ejercitando los ejemplos. 
 
-Hay varios más tipos de datos, pero los iremos reviando en la medida que lo necesitemos próximamente. 
+Hay varios tipos de datos más, pero los iremos revisando en la medida que lo necesitemos próximamente. 
 
 [**<< CAPITULO ANTERIOR**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/04_usando_la_consola/04_usando_la_consola.md) | [**SIGUIENTE CAPITULO >>**](https://github.com/paulovillarroel/aprendiendo_python/blob/main/06_variables_funciones/06_variables_funciones.md)
